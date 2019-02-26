@@ -14,7 +14,9 @@
         {
             get
             {
-                return VehicleType.None;
+                //Nitro: Solo puede ser equipada a vehículos Car.
+
+                return VehicleType.Car;
             }
         }
     }

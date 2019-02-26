@@ -14,7 +14,9 @@
         {
             get
             {
-                return VehicleType.None;
+                //Muffler: Solo puede ser equipada a vehículos Bike.
+
+                return VehicleType.Bike;
             }
         }
     }

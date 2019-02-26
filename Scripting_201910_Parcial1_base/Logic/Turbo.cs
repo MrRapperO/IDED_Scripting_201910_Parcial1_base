@@ -14,7 +14,9 @@
         {
             get
             {
-                return VehicleType.None;
+                //Turbo: Puede ser equipada a vehículos Bike o Car.
+
+                return VehicleType.Any;
             }
         }
     }
