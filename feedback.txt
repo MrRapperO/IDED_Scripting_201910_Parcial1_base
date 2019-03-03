@@ -1,0 +1,9 @@
+Parcial (4.0 / 5.0)
+	* El código fue entregado con errores de compilación.
+	* Si bien UpdateSpeed() no es incorrecto, no era necesario hacerlo. Esa lógica podía ir perfectamente en el accesor MaxSpeed.
+	* Part.durability siempre es 0, por tanto Part.SpeedBonus siempre retornará 0.
+
+Bonificación (0.0 / 0.5)
+	No se presentó propuesta para la bonificación
+	
+Total: 4.0/ 5.0
